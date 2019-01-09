@@ -22,10 +22,7 @@
 				"Role": "arn:aws:iam::903987810958:role/TFSDL-Pilot-AWSLambdaServiceRole",
 				"Runtime": "python3.6",
 				"Timeout": 540,
-				"Tags": {
-					"erp": "syspro",
-					"type": "fl"
-				}
+				
 			}
 		}
 	}
