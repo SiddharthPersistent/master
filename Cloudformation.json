@@ -19,11 +19,10 @@
 				"FunctionName": "TFSDLPilotSysproFL1TriggerPipeline",
 				"Handler": "lambda_function.lambda_handler",
 				"MemorySize": 512,
-				"Role": "arn:aws:iam::903987810958:role/TFSDL-Pilot-AWSLambdaServiceRole",
+				"Role": "arn:aws:iam::779457821313:role/AWSLambdaRole",
 				"Runtime": "python3.6",
-				"Timeout": 540,
-				
+				"Timeout": 540
+				}
 			}
 		}
-	}
 }
