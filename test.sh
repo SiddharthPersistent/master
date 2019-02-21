@@ -6,4 +6,4 @@
 basedir=`pwd`/orgconnect
 
 
-mkdir -p $(pwd)/orgconnect output activedirectory employeeinputdata employee email historicalconnect
+mkdir -p /tmp/orgconnect output activedirectory employeeinputdata employee email historicalconnect
