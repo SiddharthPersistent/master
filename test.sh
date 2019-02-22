@@ -2,9 +2,8 @@
 
 #Creating directory structure in Edge node
 
-
 basedir=`pwd`/orgconnect
-ls
 
-mkdir -p /tmp/orgconnect12345 output activedirectory employeeinputdata employee email historicalconnect
- ls -lt | grep -i org
+echo $basedir
+
+mkdir -p $(pwd)/orgconnect output activedirectory employeeinputdata employee email historicalconnect
